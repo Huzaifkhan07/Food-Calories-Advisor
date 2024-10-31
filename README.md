@@ -4,6 +4,8 @@ Hi! 👋 This is my **Food Calories Advisor** app, built with Python and Streaml
 
 You can check out the live project here: [Food Calories Advisor](https://food-calories-advisor-huzaif-khan.streamlit.app/).  **Note**: Please wait for the project to load as it is hosted on a free tier Account.
 
+[Linkedin Engagement](https://food-calories-advisor-huzaif-khan.streamlit.app/)
+
 ## What I've Done
 - **Image Upload & Display**: Allows users to upload food images (JPG, PNG, JPEG) and shows the image on the screen.
 - **Calorie Calculation**: Uses the Google Gemini model to identify food items from the image and calculate calories for each one.
