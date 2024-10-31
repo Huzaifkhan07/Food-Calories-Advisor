@@ -2,7 +2,7 @@
 
 Hi! 👋 This is my **Food Calories Advisor** app, built with Python and Streamlit. This app helps users get a quick nutritional analysis by uploading images of food items. Using Google’s Gemini API, the app identifies each item, calculates calories, and gives a recommendation on whether the food is healthy or not.
 
-You can check out the live project here: [Food Calories Advisor](https://food-calories-advisor-huzaif-khan.streamlit.app/). **Note**: Please wait for the project to load as it is hosted on a free tier Account.
+You can check out the live project here: [Food Calories Advisor](https://food-calories-advisor-huzaif-khan.streamlit.app/).  **Note**: Please wait for the project to load as it is hosted on a free tier Account.
 
 ## What I've Done
 - **Image Upload & Display**: Allows users to upload food images (JPG, PNG, JPEG) and shows the image on the screen.
