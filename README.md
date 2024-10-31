@@ -4,7 +4,7 @@ Hi! 👋 This is my **Food Calories Advisor** app, built with Python and Streaml
 
 You can check out the live project here: [Food Calories Advisor](https://food-calories-advisor-huzaif-khan.streamlit.app/).  **Note**: Please wait for the project to load as it is hosted on a free tier Account.
 
-[Linkedin Engagement](https://food-calories-advisor-huzaif-khan.streamlit.app/)
+[Linkedin Engagement](https://www.linkedin.com/posts/huzaif07_foodcaloriesadvisor-python-streamlit-activity-7257773617420079106-aHyb?utm_source=share&utm_medium=member_desktop)
 
 ## What I've Done
 - **Image Upload & Display**: Allows users to upload food images (JPG, PNG, JPEG) and shows the image on the screen.
